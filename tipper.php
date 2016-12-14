@@ -1,5 +1,4 @@
 <!DOCTYPE HTML>
-<?php error_reporting(E_ALL) ?>
 <head>
   <title>Tipper</title>
   <style type="text/css">
