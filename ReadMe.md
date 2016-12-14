@@ -37,8 +37,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![demo
-](https://raw.githubusercontent.com/mrsata/CodePath-WebSecurity/master/demo.gif)
+
+<img src=
+"https://raw.githubusercontent.com/mrsata/CodePath-WebSecurity/master/demo.gif"
+width="450" alt="demo">
 
 GIF created with [GIF Brewery 3](http://gifbrewery.com).
 
